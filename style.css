@@ -1,0 +1,16 @@
+.item-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    height: 100px;
+   /* width: fit-content;*/
+}
+.items{
+    background-color: aqua;
+    padding: 10px;
+    border: 10 10;
+}
+body{
+    margin: 0;
+}
